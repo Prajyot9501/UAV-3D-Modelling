@@ -27,8 +27,8 @@ To implement a UAV 3D model in MATLAB and Simulink, I have taken the following s
 - Ran simulations to test the UAV's performance under various conditions and missions.
 - Analyzed the data to understand the UAV's behavior and identify any potential issues or areas for improvement.
 
-##Components Used:
-In your simulations, I utilized these several components:
+## Components Used:
+In my simulations, I utilized these several components:
 
 - **Simulation 3D Scene Configuration:** This is where the 3D environment is configured, including the placement of objects and definition of the scene.
 - **Simulation 3D Camera:** Represents the UAV's vision system, allowing you to simulate what the UAV's camera sees during the flight.
